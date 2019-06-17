@@ -1,0 +1,68 @@
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\bin\Debug\Unilab2018.exe.config
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\bin\Debug\Unilab2018.exe
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\bin\Debug\Unilab2018.pdb
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.Forms.GameForm.resources
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.Properties.Resources.resources
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.csproj.GenerateResource.Cache
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.csproj.CoreCompileInputs.cache
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.exe
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.pdb
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.csprojResolveAssemblyReference.cache
+C:\Users\masahiro\Documents\unilab2018\Unilab2018\obj\Debug\Unilab2018.Forms.CustomStageForm.resources
+C:\Users\masah\Desktop\Unilab2018\bin\Debug\Unilab2018.exe.config
+C:\Users\masah\Desktop\Unilab2018\bin\Debug\Unilab2018.exe
+C:\Users\masah\Desktop\Unilab2018\bin\Debug\Unilab2018.pdb
+C:\Users\masah\Desktop\Unilab2018\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masah\Desktop\Unilab2018\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.csprojResolveAssemblyReference.cache
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.Forms.CustomStageForm.resources
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.Forms.GameForm.resources
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.Properties.Resources.resources
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.csproj.GenerateResource.Cache
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.csproj.CoreCompileInputs.cache
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.exe
+C:\Users\masah\Desktop\Unilab2018\obj\Debug\Unilab2018.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\bin\Debug\Unilab2018.exe.config
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\bin\Debug\Unilab2018.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\bin\Debug\Unilab2018.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\bin\Debug\Newtonsoft.Json.dll
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\bin\Debug\Newtonsoft.Json.xml
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.csprojAssemblyReference.cache
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.Forms.CustomStageForm.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.Forms.GameForm.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.Properties.Resources.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.csproj.GenerateResource.cache
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.csproj.CoreCompileInputs.cache
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.csproj.CopyComplete
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2018\Unilab2018\obj\Debug\Unilab2018.pdb
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\bin\Debug\Unilab2018.exe.config
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\bin\Debug\Unilab2018.exe
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\bin\Debug\Unilab2018.pdb
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.csprojAssemblyReference.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.Forms.CustomStageForm.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.Forms.GameForm.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.Properties.Resources.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.csproj.GenerateResource.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.csproj.CoreCompileInputs.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.csproj.CopyComplete
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.exe
+C:\Users\TAKUMARU\Desktop\Unilab2018 - コピー (2)\obj\Debug\Unilab2018.pdb
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\bin\Debug\Unilab2018.exe.config
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\bin\Debug\Unilab2018.exe
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\bin\Debug\Unilab2018.pdb
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.csprojAssemblyReference.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.Forms.CustomStageForm.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.Forms.GameForm.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.Properties.Resources.resources
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.csproj.GenerateResource.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.csproj.CoreCompileInputs.cache
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.csproj.CopyComplete
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.exe
+C:\Users\TAKUMARU\Desktop\Unilab2018小画面用\obj\Debug\Unilab2018.pdb

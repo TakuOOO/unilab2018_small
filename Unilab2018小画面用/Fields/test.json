@@ -1,0 +1,1806 @@
+﻿{
+  "StageName": "test",
+  "Map": [
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 1,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 2,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 3,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 4,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 5,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 6,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 7,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 8,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 9,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 10,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 11,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 12,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 13,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 14,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 15,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 16,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 17,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 18,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 19,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 20,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 21,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 22,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 23,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 0,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 1,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 1,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 2,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      {
+        "$type": "Unilab2018.Objects.Enemies.Enemy, Unilab2018",
+        "X": 2,
+        "Y": 2,
+        "Direction": 0,
+        "IsAlive": true,
+        "CanMove": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "Blue"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 2,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 3,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.Enemies.Enemy, Unilab2018",
+        "X": 3,
+        "Y": 1,
+        "Direction": 0,
+        "IsAlive": true,
+        "CanMove": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "Blue"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 3,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 4,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 4,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 5,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 5,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 6,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 6,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 7,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 7,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 8,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 8,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 9,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 9,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 10,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 10,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 11,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 11,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 12,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.Player.Player, Unilab2018",
+        "X": 12,
+        "Y": 23,
+        "Direction": 0,
+        "IsAlive": true,
+        "CanMove": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "Red"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 12,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 13,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 13,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 14,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 14,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 15,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 15,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 16,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 16,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 17,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 17,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 18,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 18,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 19,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 19,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 20,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 20,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 21,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 21,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 22,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 22,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 23,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 23,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ],
+    [
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 0,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 1,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 2,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 3,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 4,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 5,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 6,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 7,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 8,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 9,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 10,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 11,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 12,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 13,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 14,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 15,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 16,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 17,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 18,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 19,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 20,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 21,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 22,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 23,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      },
+      {
+        "$type": "Unilab2018.Objects.FieldItems.Wall, Unilab2018",
+        "CanMove": false,
+        "X": 24,
+        "Y": 24,
+        "Direction": 0,
+        "IsAlive": true,
+        "Color": {
+          "$type": "System.Drawing.SolidBrush, System.Drawing",
+          "Color": "DarkGray"
+        }
+      }
+    ]
+  ],
+  "Player": {
+    "X": 12,
+    "Y": 23,
+    "Direction": 0,
+    "IsAlive": true,
+    "CanMove": true,
+    "Color": {
+      "$type": "System.Drawing.SolidBrush, System.Drawing",
+      "Color": "Red"
+    }
+  },
+  "Enemies": [
+    {
+      "X": 2,
+      "Y": 2,
+      "Direction": 0,
+      "IsAlive": true,
+      "CanMove": true,
+      "Color": {
+        "$type": "System.Drawing.SolidBrush, System.Drawing",
+        "Color": "Blue"
+      }
+    },
+    {
+      "X": 3,
+      "Y": 1,
+      "Direction": 0,
+      "IsAlive": true,
+      "CanMove": true,
+      "Color": {
+        "$type": "System.Drawing.SolidBrush, System.Drawing",
+        "Color": "Blue"
+      }
+    }
+  ],
+  "Width": 25,
+  "Height": 25
+}

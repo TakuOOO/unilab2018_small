@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{57742F4F-D842-4C09-9206-BB1F6BB2C047}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Unilab2018</RootNamespace>
+    <AssemblyName>Unilab2018</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Player.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomControls\ButtonEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fields\Field.cs" />
+    <Compile Include="Forms\CustomStageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomStageForm.Designer.cs">
+      <DependentUpon>CustomStageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GameForm.Designer.cs">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Types.cs" />
+    <Compile Include="Objects\Enemies\Enemy.cs" />
+    <Compile Include="Objects\FieldObjects\Wall.cs" />
+    <Compile Include="Objects\FieldObjects\Swamp.cs" />
+    <Compile Include="Objects\FieldObjects\Teleporter.cs" />
+    <Compile Include="Objects\GameObject.cs" />
+    <Compile Include="Objects\Players\Player.cs" />
+    <Compile Include="Objects\Goal\Goal.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\CustomStageForm.resx">
+      <DependentUpon>CustomStageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GameForm.resx">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Fields\test.json" />
+    <EmbeddedResource Include="Fields\stage1.json" />
+    <EmbeddedResource Include="Fields\stage2.json" />
+    <EmbeddedResource Include="Fields\stage3.json" />
+    <EmbeddedResource Include="Fields\stage4.json" />
+    <EmbeddedResource Include="Fields\stage5.json" />
+    <EmbeddedResource Include="Fields\stage6.json" />
+    <EmbeddedResource Include="Fields\stage7.json" />
+    <EmbeddedResource Include="Fields\stage8.json" />
+    <EmbeddedResource Include="Fields\stage9.json" />
+    <EmbeddedResource Include="Fields\stage10.json" />
+    <EmbeddedResource Include="Fields\stage11.json" />
+    <EmbeddedResource Include="Fields\stage12.json" />
+    <EmbeddedResource Include="Fields\stage13.json" />
+    <EmbeddedResource Include="Fields\stage14.json" />
+    <EmbeddedResource Include="Fields\stage15.json" />
+    <EmbeddedResource Include="Fields\stage16.json" />
+    <EmbeddedResource Include="Fields\stage17.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Wall.jpg" />
+    <EmbeddedResource Include="Images\Goal.jpg" />
+    <EmbeddedResource Include="Images\Swamp.jpg" />
+    <EmbeddedResource Include="Images\RedRose.jpg" />
+    <EmbeddedResource Include="Images\WhiteRose.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Up1.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Down1.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Right1.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Left1.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_None1.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Up2.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Down2.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Right2.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Left2.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_None2.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Up3.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Down3.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Right3.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Left3.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_None3.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Up4.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Down4.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Right4.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_Left4.jpg" />
+    <EmbeddedResource Include="Images\Teleporter_None4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Player_Down.jpg" />
+    <EmbeddedResource Include="Images\Player_Left.jpg" />
+    <EmbeddedResource Include="Images\Player_None.jpg" />
+    <EmbeddedResource Include="Images\Player_Right.jpg" />
+    <EmbeddedResource Include="Images\Player_Up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\background.png" />
+    <None Include="Images\ステージクリア.png" />
+    <None Include="Images\全ステージクリア.png" />
+    <None Include="Images\表紙.png" />
+    <None Include="Images\ステージ9.gif" />
+    <None Include="Images\ステージ１.gif" />
+    <None Include="Images\ステージ2.gif" />
+    <None Include="Images\ステージ3.gif" />
+    <None Include="Images\ステージ4.gif" />
+    <None Include="Images\ステージ5.gif" />
+    <None Include="Images\ステージ6.gif" />
+    <None Include="Images\ステージ7.gif" />
+    <None Include="Images\ステージ8.gif" />
+    <None Include="Images\ステージ10.gif" />
+    <None Include="Images\ステージ11.gif" />
+    <None Include="Images\ステージ12.gif" />
+    <None Include="Images\前に進む.gif" />
+    <None Include="Images\ステージ13.gif" />
+    <None Include="Images\ステージ14.gif" />
+    <None Include="Images\ステージ15.gif" />
+    <None Include="Images\ステージ16.gif" />
+    <None Include="Images\ステージ17.gif" />
+    <None Include="Images\右をむく.gif" />
+    <None Include="Images\右をむく%28黒%29.gif" />
+    <None Include="Images\右をむく%28枠線なし%29.gif" />
+    <None Include="Images\左をむく.gif" />
+    <None Include="Images\1つ削除.gif" />
+    <None Include="Images\プレイヤー をリセット.gif" />
+    <None Include="Images\全て削除.gif" />
+    <None Include="Images\くり返し.gif" />
+    <None Include="Images\ここまで.gif" />
+    <None Include="Images\ずっと.gif" />
+    <None Include="Images\もし.gif" />
+    <None Include="Images\回復.gif" />
+    <None Include="Images\実行.gif" />
+    <None Include="Images\表紙.png" />
+    <None Include="Images\自作ステージ.gif" />
+    <None Include="Images\自作ステージを編集.gif" />
+    <Content Include="Player.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
